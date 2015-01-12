@@ -5,9 +5,13 @@ relative_permalinks: true
 # Setup
 title:            Kelly Hubble
 tagline:          It's subtle
-url:              http://kellyhubble.com
+url:              http://kellyhubble.com/
 paginate:         1
 baseurl:          /
+pages_list:       
+  About: '/about/'
+  Feed: '/atom.xml/'
+
 author:
   name:           Kelly Hubble
   url:            kellyhubble.com
